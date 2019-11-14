@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "669646133852",
+    "firebase_url": "https://cofi-1e740.firebaseio.com",
+    "project_id": "cofi-1e740",
+    "storage_bucket": "cofi-1e740.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669646133852:android:ab86b3c968c909466f2499",
+        "android_client_info": {
+          "package_name": "com.toir.cofi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669646133852-i710om0tnnicvp3di89717j52s7vucqd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.toir.cofi",
+            "certificate_hash": "16fd5273331e4243e640538d884d043202d97d85"
+          }
+        },
+        {
+          "client_id": "669646133852-fdfanr2t850avlvhfluh2mne6akpsirm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBufFpRVyscLFwF1jrOWTzsOJKpPbCsNVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669646133852-fdfanr2t850avlvhfluh2mne6akpsirm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
